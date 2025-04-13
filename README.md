@@ -1,71 +1,69 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<h3 align="center">AI Software Engineer | Machine Learning Enthusiast | Deep Learning Explorer</h3>
+<!-- Banner -->
+<img src="https://i.imgur.com/QydJFbg.png" alt="AI Engineer Banner" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-</p>
+# Hi there 👋 Welcome to my GitHub!
 
 ---
 
-🌟 **About Me**
+## 🧠 About Me
 
-🔹 Passionate AI Software Engineer with a strong foundation in machine learning, deep learning, and data engineering.  
-🔹 Experienced in designing and deploying scalable AI solutions across multiple domains.  
-🔹 Proficient in building NLP pipelines, computer vision systems, and production-grade ML APIs.  
-🔹 Continuously exploring new trends in artificial intelligence, LLMs, and reinforcement learning.
+I’m a dedicated **AI Software Engineer** passionate about crafting intelligent systems that learn, adapt, and evolve.  
+My expertise lies in building and deploying machine learning and deep learning models with production-level quality,  
+working across the entire ML pipeline—from data ingestion and preprocessing to model training and API deployment.
+
+With a solid background in Python, cloud infrastructure, and MLOps, I specialize in solving real-world problems using  
+modern AI techniques, including NLP, computer vision, and generative models (LLMs, GANs, Transformers).
 
 ---
 
-🧰 **Tech Stack & Tools**
+## 🛠️ Skills
+
+- Machine Learning & Deep Learning (Sklearn, TensorFlow, PyTorch)
+- LLMs and Transformer-based architectures
+- NLP (spaCy, NLTK, Hugging Face Transformers)
+- Computer Vision (OpenCV, CNNs, Vision Transformers)
+- API Development (FastAPI, Flask)
+- Data Engineering (Pandas, NumPy, Airflow, SQL)
+- MLOps & Deployment (Docker, MLflow, GitHub Actions, AWS/GCP)
+- Git, Agile, and CI/CD practices
+
+---
+
+## 🚀 Languages & Frameworks & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="35" />
 </p>
 
 ---
 
-💼 **Work Experience**
+## 📌 Featured Projects
 
-**🔹 AI Software Engineer — [Company Name]**  
-*Date – Present*  
-- Designed and deployed real-time machine learning models in production using PyTorch and FastAPI.  
-- Led the implementation of a document classification system using Transformers and spaCy.  
-- Developed scalable ML pipelines using MLflow, Airflow, and Docker.
+🔹 **[SmartVision AI](https://github.com/yourusername/smartvision-ai)**  
+A computer vision system for real-time object detection using YOLOv8 & OpenCV.  
 
-**🔹 ML Research Intern — [Organization/Institution]**  
-*Date – Date*  
-- Conducted experiments on attention-based neural architectures for NLP tasks.  
-- Published findings in a peer-reviewed journal (optional if applicable).
+🔹 **[LangChain Chatbot](https://github.com/yourusername/langchain-ragbot)**  
+End-to-end RAG chatbot using LangChain, Pinecone, OpenAI API, and FastAPI.  
+
+🔹 **[ML Deployment Toolkit](https://github.com/yourusername/ml-deploy-kit)**  
+Modular boilerplate to deploy ML models with FastAPI + Docker + GitHub Actions.
 
 ---
 
-📈 **GitHub Stats**
+## 📫 Let’s Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="yourusername" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="yourusername" />
-</p>
+- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- ✉️ Email: your.email@example.com
 
 ---
 
-📫 **How to Reach Me**
-
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
-
----
-
-🌱 *"Building the future one model at a time!"*
-
+_Thanks for stopping by! Let's build the future with AI 🤖_
